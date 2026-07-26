@@ -28,16 +28,3 @@ My name is Richard William; I am 18 years old and originally from São Paulo, Br
     width="30px"
     Style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<br/>
-
-
-### 📊 Estatistica
-
-<img
-    align="left"
-    alt="Github Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardwilliam2&thrme-tokyonihght"
-/>
